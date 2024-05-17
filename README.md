@@ -1,1 +1,1 @@
-# Realestate_preice_pridiction
+# Realestate_price_pridiction
